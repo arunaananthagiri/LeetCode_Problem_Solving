@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
