@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -95,8 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
