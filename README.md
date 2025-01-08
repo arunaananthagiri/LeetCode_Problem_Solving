@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1127-last-stone-weight) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
