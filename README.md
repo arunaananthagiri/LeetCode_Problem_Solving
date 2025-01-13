@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2226-rings-and-rods) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2226-rings-and-rods](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2226-rings-and-rods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1127-last-stone-weight) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
