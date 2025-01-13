@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
 | ------- |
