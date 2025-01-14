@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2226-rings-and-rods) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1127-last-stone-weight) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
