@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0044-wildcard-matching) |
+| [0886-score-of-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0886-score-of-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
