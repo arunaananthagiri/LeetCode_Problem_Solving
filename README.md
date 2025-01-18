@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1127-last-stone-weight) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1127-last-stone-weight) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -185,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0022-generate-parentheses) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
