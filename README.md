@@ -187,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0044-wildcard-matching) |
+| [1013-fibonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0044-wildcard-matching) |
+| [1013-fibonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,9 +210,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
