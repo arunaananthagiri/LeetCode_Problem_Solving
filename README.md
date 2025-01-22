@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0120-triangle) |
 | [1013-fibonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
