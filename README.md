@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2145-grid-game) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [1013-fibonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
