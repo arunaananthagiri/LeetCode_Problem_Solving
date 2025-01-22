@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0044-wildcard-matching) |
+| [0516-longest-palindromic-subsequence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0120-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
