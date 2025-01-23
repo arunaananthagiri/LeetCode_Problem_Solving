@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1876-map-of-highest-peak) |
 ## Array
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
 | [1127-last-stone-weight](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1127-last-stone-weight) |
+| [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2145-grid-game) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2145-grid-game) |
@@ -236,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
