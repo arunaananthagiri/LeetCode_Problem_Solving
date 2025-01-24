@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0044-wildcard-matching) |
 | [0516-longest-palindromic-subsequence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0886-score-of-parentheses) |
+| [1517-restore-the-array](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1517-restore-the-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
+| [1517-restore-the-array](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1517-restore-the-array) |
 ## Recursion
 |  |
 | ------- |
