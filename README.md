@@ -249,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [1155-product-sales-analysis-iii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1155-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
