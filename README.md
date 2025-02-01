@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
+| [0605-can-place-flowers](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0605-can-place-flowers) |
 | [1105-uncrossed-lines](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1105-uncrossed-lines) |
 | [1127-last-stone-weight](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1127-last-stone-weight) |
 | [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0044-wildcard-matching) |
+| [0605-can-place-flowers](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0605-can-place-flowers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2509-minimize-xor) |
 ## Dynamic Programming
