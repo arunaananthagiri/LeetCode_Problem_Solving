@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0044-wildcard-matching) |
+| [0151-reverse-words-in-a-string](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0639-decode-ways-ii) |
 | [0886-score-of-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0886-score-of-parentheses) |
@@ -264,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
