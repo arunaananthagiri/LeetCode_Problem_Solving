@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2226-rings-and-rods) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [1517-restore-the-array](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1517-restore-the-array) |
 | [1894-merge-strings-alternately](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
