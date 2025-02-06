@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
+| [1300-critical-connections-in-a-network](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1300-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
+| [1300-critical-connections-in-a-network](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1300-critical-connections-in-a-network) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1894-merge-strings-alternately) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
