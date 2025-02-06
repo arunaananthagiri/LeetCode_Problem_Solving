@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [1396-count-servers-that-communicate](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1876-map-of-highest-peak) |
@@ -237,9 +239,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0813-all-paths-from-source-to-target](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
