@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1517-restore-the-array) |
 | [1894-merge-strings-alternately](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3447-clear-digits) |
 ## Queue
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-score-of-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0886-score-of-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3447-clear-digits) |
 ## Greedy
