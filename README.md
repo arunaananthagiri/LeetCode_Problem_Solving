@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2226-rings-and-rods) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2145-grid-game) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0407-trapping-rain-water-ii) |
 | [1127-last-stone-weight](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1127-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Quickselect
 |  |
 | ------- |
