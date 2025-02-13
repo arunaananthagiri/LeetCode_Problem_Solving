@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0068-text-justification) |
 | [0120-triangle](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0239-sliding-window-maximum) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/0068-text-justification) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/arunaananthagiri/LeetCode_Problem_Solving/tree/master/3447-clear-digits) |
 ## Queue
